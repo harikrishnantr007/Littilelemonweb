@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Littilelemonweb/static/css/main.993d52ad.css",
+    "main.js": "/Littilelemonweb/static/js/main.de8bce68.js",
+    "static/js/453.b3f64589.chunk.js": "/Littilelemonweb/static/js/453.b3f64589.chunk.js",
+    "static/media/banneri.jpg": "/Littilelemonweb/static/media/banneri.137c23bcc49065c65de3.jpg",
+    "static/media/Asset 16@4x.png": "/Littilelemonweb/static/media/Asset 16@4x.d4cae6fac8384c2dae04.png",
+    "index.html": "/Littilelemonweb/index.html",
+    "main.993d52ad.css.map": "/Littilelemonweb/static/css/main.993d52ad.css.map",
+    "main.de8bce68.js.map": "/Littilelemonweb/static/js/main.de8bce68.js.map",
+    "453.b3f64589.chunk.js.map": "/Littilelemonweb/static/js/453.b3f64589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993d52ad.css",
+    "static/js/main.de8bce68.js"
+  ]
+}
